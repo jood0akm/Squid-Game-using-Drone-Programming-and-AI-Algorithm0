@@ -7,8 +7,6 @@ An AI referee for **Red Light, Green Light** — built with a real DJI Tello dro
 
 *(Real frames captured by the running system — not staged renders. The yellow contour marks the exact pixels the motion detector flagged; the green box is a live face-recognition match, not a manually typed label.)*
 
-📺 **Demo video:** _add your unlisted YouTube / Drive link here_
-
 ---
 
 ## The problem
