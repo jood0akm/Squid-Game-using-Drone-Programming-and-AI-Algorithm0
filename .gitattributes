@@ -1,2 +1,20 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Personal evidence photos (contain player's face)
+evidence/
+
+# Large model weights
+*.pt
+
+# Player data (may contain personal info)
+players.json
+leaderboard.json
+
+# OS junk
+.DS_Store
+Thumbs.db
