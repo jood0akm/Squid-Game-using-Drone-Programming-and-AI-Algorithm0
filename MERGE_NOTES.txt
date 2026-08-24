@@ -1,0 +1,12 @@
+UltraFast V3 changes
+- Background asynchronous YOLO tracking; stale inference frames are dropped.
+- Live camera no longer waits for active-game Face ID.
+- Person inference size reduced to 256.
+- Motion checks sampled at camera-friendly intervals and confirmed across 3 samples.
+- Motion sensitivity adjusted for faster deliberate-motion detection.
+- Non-blocking RED transition beep.
+- Full-screen RED eye warning for 3 seconds before live motion detection.
+- Game/round separation: one game contains multiple Green/Red rounds.
+- One player going OUT or WIN does not stop remaining players.
+- Final ranked dashboard includes player, WIN/OUT, rank, and result round.
+- Automatic next game preserved.

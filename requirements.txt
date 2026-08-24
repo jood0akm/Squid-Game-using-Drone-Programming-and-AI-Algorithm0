@@ -1,0 +1,9 @@
+av>=11.0.0
+numpy>=1.24.0
+opencv-python>=4.8.0
+pandas>=2.0.0
+ultralytics>=8.1.0
+torch>=2.1.0
+insightface>=0.7.3
+onnxruntime>=1.16.0
+pyttsx3>=2.90
